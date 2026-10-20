@@ -1,0 +1,11 @@
+{
+  "_about": "Every project folder and its type. Read by tools/folder-locks.mjs. Types: company, product, client, experimental, personal.",
+  "root": "D:/ai-projects",
+  "projects": [
+    { "folder": "company", "title": "Company records", "type": "company", "description": "Records, website, runbooks: the main office" },
+    { "folder": "ordering-app", "title": "Ordering app", "type": "product", "description": "AI phone and chat ordering for takeaways" },
+    { "folder": "receptionist", "title": "AI receptionist", "type": "product", "description": "Modular AI receptionist: website chat now, phone next" },
+    { "folder": "client-site", "title": "Client website", "type": "client", "description": "WordPress child theme for a client" },
+    { "folder": "side-project", "title": "Side project", "type": "personal", "description": "The owner's own; no agent touches it" }
+  ]
+}
